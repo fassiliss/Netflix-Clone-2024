@@ -58,3 +58,6 @@ const Footer = () => {
 }
 
 export default Footer
+
+
+// TMDB API key 0979fea3021eba74aecec3f91feddc91
